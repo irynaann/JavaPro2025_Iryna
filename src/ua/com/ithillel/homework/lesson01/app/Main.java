@@ -1,4 +1,4 @@
-package app;
+package ua.com.ithillel.homework.lesson01.app;
 
 public class Main {
 
